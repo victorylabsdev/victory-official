@@ -349,7 +349,7 @@
   }
 
   .tf-roadmap-ss {
-    padding: 0 0;
+    padding: 5 0;
   }
 
   .home-2 .tf-about {
@@ -564,12 +564,12 @@
   }
 
   h6 {
-    font-size: 13px;
+    font-size: 12px;
     line-height: 20px;
   }
 
   .title-ss h3 {
-    font-size: 32px;
+    font-size: 35px;
   }
 
   .tf-about.style-2 .tf-heading,
@@ -600,7 +600,7 @@
   }
 
   .tf-roadmap-ss {
-    padding: 120px 10;
+    padding: 120px 3px;
   }
 
   .tf-contact {
