@@ -767,7 +767,7 @@ h2 {
 
 h3 {
   font-size: 36px;
-  line-height: 44px;
+  line-height: 75px;
 }
 
 h4 {
@@ -1079,7 +1079,7 @@ a:focus {
   --product-color22: linear-gradient(356.98deg, #FFFFFF 25.85%, rgba(255, 255, 255, 0) 54.01%);
   --product-color23: #C2C3C5;
   --product-color24: #fff;
-  --product-color25: transparent;
+  --product-color25: rgba(194, 195, 197, 0.35);
   --bg-section: #f6f6f6;
   --bg-section2: unset;
   --bg-section3: transparent;
