@@ -1079,7 +1079,7 @@ a:focus {
   --product-color22: linear-gradient(356.98deg, #FFFFFF 25.85%, rgba(255, 255, 255, 0) 54.01%);
   --product-color23: #C2C3C5;
   --product-color24: #fff;
-  --product-color25: rgba(194, 195, 197, 0.35);
+  --product-color25: transparent;
   --bg-section: #f6f6f6;
   --bg-section2: unset;
   --bg-section3: transparent;
@@ -1134,7 +1134,7 @@ a:focus {
   --product-color24: #040B11;
   --product-color25: #141B22;
   --bg-section: url(../images/bs-section.jpg);
-  --bg-section2: #040B11;
+  --bg-section2: transparent;
   --bg-section3: url(../images/bs-section.jpg);
 }
 
@@ -1827,7 +1827,7 @@ header.absolute {
   right: 0;
   width: 2px;
   height: 16px;
-  background-color: #888B8E;
+  background-color: transparent;
 }
 
 .tf-page-title .breadcrumbs li a:hover {

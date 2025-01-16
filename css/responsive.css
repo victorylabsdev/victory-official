@@ -319,7 +319,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb .content-right .list-infor li {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .swiper-button-prev,
@@ -559,7 +559,7 @@
   }
 
   h2 {
-    font-size: 32px;
+    font-size: 35px;
     line-height: 38px;
   }
 
@@ -757,7 +757,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 650px;
+    height: 900px;
   }
 }
 

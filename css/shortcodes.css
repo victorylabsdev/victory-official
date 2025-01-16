@@ -3020,7 +3020,7 @@
 .tf-roadmap-style-thumb .content-rm-thumb {
   display: flex;
   align-items: center;
-  padding: 48px 42px 48px 42px;
+  padding: 100px 42px 100px 42px;
   background: var(--product-color20);
   height: 400px;
 }
