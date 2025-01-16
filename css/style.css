@@ -183,11 +183,23 @@ html {
 }
 
 body {
-  background: var(--background-body);
+  background-color: transparent;
   color: var(--primary-color);
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 1.6rem;
+  line-height: 1.4;
+  background:transparent;
+  
+  background-image: url('https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif?cid=ecf05e47xt6mcjc4euybna5fo72bmn2il19bjf9esq5jjcdw&ep=v1_gifs_search&rid=giphy.gif&ct=g'); /* Ganti 'background.gif' dengan nama file gambar bergerak Anda */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  animation: animateBackground 60s linear infinite
 }
+
+body.active {
+  overflow: hidden;
+}
+
 
 article,
 aside,
@@ -1255,7 +1267,7 @@ header.absolute {
 }
 
 #main-nav>ul>li>a:hover {
-  color: #e99500;
+  color: cadetblue;
 }
 
 #main-nav>ul>li:last-child {
@@ -1377,7 +1389,7 @@ header.absolute {
 #main-nav>ul>.current-menu-item>a::before,
 #main-nav>ul>.current-menu-item .current-menu-item>a,
 #main-nav>ul>.current-menu-item>a {
-  color: #e99500;
+  color: #d3d3d3;
 }
 
 #main-nav li:hover .sub-menu {
@@ -1960,7 +1972,7 @@ header.absolute {
 
 #scroll-top::before {
   z-index: -1;
-  background-color: #e99500;
+  background-color: cadetblue;
 }
 
 #scroll-top::after {

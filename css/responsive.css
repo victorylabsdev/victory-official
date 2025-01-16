@@ -319,7 +319,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb .content-right .list-infor li {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   .swiper-button-prev,
@@ -564,8 +564,8 @@
   }
 
   h6 {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 13px;
+    line-height: 20px;
   }
 
   .title-ss h3 {
@@ -600,7 +600,7 @@
   }
 
   .tf-roadmap-ss {
-    padding: 30px 0;
+    padding: 120px 10;
   }
 
   .tf-contact {
@@ -753,7 +753,7 @@
   }
 
   .header-fix-space {
-    height: 70px;
+    height: 60px;
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb {
